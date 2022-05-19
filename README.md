@@ -1,4 +1,4 @@
-# AutoHotkey
+# AutoHotkey & AutoIt Scripts
 
 A couple of my AutoIt & AutoHotkey scripts that make my life easier.
 
