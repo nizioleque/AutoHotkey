@@ -17,3 +17,5 @@ The script uses the Map type, which is only available in beta versions of AutoIt
 `Ctrl` + `Home` ➜ Activate hotkeys
 
 You can also double click any of the keys to use its primary function without deactivating the hotkeys.
+
+Hotkeys are stored in an array at the beginning of the code and can be easily changed to your liking.
