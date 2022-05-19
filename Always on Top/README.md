@@ -1,5 +1,5 @@
 # Always on Top
-Pins a window to stay always on top. A pinned window becomes semi-transparent when unactive. Hotkey (default: Ctrl + Q) and transparency can be adjusted through the tray icon menu.
+Pins a window to stay always on top. A pinned window becomes semi-transparent when unactive. Hotkey (default: `Ctrl` + `Q`) and transparency can be adjusted through the tray icon menu.
 
 ![image](https://user-images.githubusercontent.com/92390086/169280654-1f1ddeeb-8775-43cf-9b06-83639e3d4191.png)
 
