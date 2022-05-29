@@ -22,8 +22,7 @@ Window switching with mouse `Back`/`Forward` buttons. Hold `RMB`[^1] ➜ click `
 ### [Music Hotkeys](Music%20Hotkeys)
 Solution for the lack of media buttons on my Xiaomi Mi Notebook Pro. Maps `Home`, `End`, `PgUp`, `PgDn` (which are in a column on the right side of my keyboard) to media controls.
 
-### MX Master Gesture AltTab
-
-Coming soon...
+### [MX Master Gesture AltTab](MX%20Master%20Gesture%20AltTab)
+Quick window switching with the Logitech MX Master's gesture button. Hold the gesture button ➜ move the cursor to the desired window ➜ release the gesture button. You can also release immediately to switch to the last window. The mouse cursor is automatically moved to the middle of the window.
 
 [^1]: Right mouse button
